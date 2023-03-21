@@ -25,3 +25,4 @@
 ![](https://img.shields.io/badge/-c++-E34F26?style=flat-square&logo=c++&logoColor=white)
 ![](https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt)
 ![](https://img.shields.io/badge/-Linux-oringe?style=flat-square&logo=Linux)
+![](https://img.shields.io/badge/-Matlab-oringe?style=flat-square&logo=Matlab)
