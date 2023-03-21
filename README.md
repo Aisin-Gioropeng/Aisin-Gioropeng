@@ -26,3 +26,4 @@
 ![](https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt)
 ![](https://img.shields.io/badge/-Linux-oringe?style=flat-square&logo=Linux)
 ![](https://img.shields.io/badge/-Matlab-oringe?style=flat-square&logo=Matlab)
+![](https://img.shields.io/badge/-Git-oringe?style=flat-square&logo=Git)
