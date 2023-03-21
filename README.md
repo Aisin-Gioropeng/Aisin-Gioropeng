@@ -4,4 +4,8 @@
 
 <h1 align="center"> <img src="https://camo.githubusercontent.com/8310f28df8f412aae3ca368fa9cdbd59b7b284e1de11d30ccb26bd80f6784a81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f70726f66696c652d736e616b652d636f6e747269622f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652d6461726b2e737667"> </h1>
 
-hello
+![](https://img.shields.io/badge/-c-E34F26?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-c++-E34F26?style=flat-square&logo=c++&logoColor=white)
+![](https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt)
+![](https://img.shields.io/badge/-Linux-oringe?style=flat-square&logo=Linux)
+![](https://img.shields.io/badge/-Matlab-oringe?style=flat-square&logo=Matlab)
