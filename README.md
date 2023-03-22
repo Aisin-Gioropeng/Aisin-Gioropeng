@@ -7,7 +7,7 @@
 
 ## 🤺 About Me
 
- 大家好，我是Aisin-Gioro peng。
+ 大家好，我是Aisin-Gioro peng:smirk:。
 
  一名来自于河北承德的C++开发工程师。
 
