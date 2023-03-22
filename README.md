@@ -17,10 +17,11 @@
 
  We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
  
- 到访此处即同道中人，欢迎各位道友的访问和支持。
+ 到访此处即同道中人，欢迎各位道友的访问和支持，如您在浏览时发现疑点，请您大胆提出，让我们一起探讨与交流，共同进步与成长。
  
-
-  
+ VX:G-171028:heartpulse: 
+ QQ:79610046:wink:
+ 
 ![](https://img.shields.io/badge/-c-E34F26?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-c++-E34F26?style=flat-square&logo=c++&logoColor=white)
 ![](https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt)
